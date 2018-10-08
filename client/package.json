@@ -7,13 +7,28 @@
     "test": "jest"
   },
   "dependencies": {
+    "buffer": "^5.2.1",
+    "fetchival": "^0.3.3",
+    "moment": "^2.22.2",
+    "native-base": "^2.8.1",
+    "prop-types": "^15.6.2",
+    "qs": "^6.5.2",
     "react": "16.5.0",
-    "react-native": "0.57.2"
+    "react-native": "0.57.0",
+    "react-native-config": "^0.11.5",
+    "react-native-deprecated-custom-components": "^0.1.2",
+    "react-native-vector-icons": "^5.0.0",
+    "react-redux": "^5.0.7",
+    "redux": "3.6.0",
+    "redux-persist": "3.4.0",
+    "redux-persist-transform-filter": "0.0.4",
+    "redux-thunk": "2.1.0",
+    "remote-redux-devtools": "0.5.2"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
     "jest": "23.6.0",
-    "metro-react-native-babel-preset": "0.48.0",
+    "metro-react-native-babel-preset": "0.45.5",
     "react-test-renderer": "16.5.0"
   },
   "jest": {
