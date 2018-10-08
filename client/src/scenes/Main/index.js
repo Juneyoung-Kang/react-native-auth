@@ -57,7 +57,7 @@ const Main = (props) => {
 						source={logoImage}
 						style={styles.logo}
 					/>
-					<Text style={styles.titleText}>교하고등학교 애플리케이션</Text>
+					<Text style={styles.titleText}>애플리케이션</Text>
 				</View>
 				<View style={styles.contents}>
 					<Button info
