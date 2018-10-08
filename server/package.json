@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "^3.0.1",
+    "ejs": "^2.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "include-all": "^4.0.3",
+    "moment": "^2.22.2",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-http-bearer": "^1.0.1",
+    "rand-token": "^0.4.0",
+    "rc": "^1.2.8",
+    "sails": "~0.12.9",
+    "sails-disk": "~0.10.9",
+    "sails-hook-validation": "^0.4.6"
+  },
+  "scripts": {
+    "start": "babel-node app.js"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "",
+  "repository": {},
+  "devDependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint": "^3.9.1",
+    "eslint-plugin-import": "^2.1.0"
+  }
+}
